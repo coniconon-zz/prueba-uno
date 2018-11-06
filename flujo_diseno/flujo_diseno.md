@@ -11,7 +11,7 @@ Este flujo de trabajo es un intento por mejorar la relación entre diseño y des
 
 
 ## Diagrama de trabajo
-![enter image description here](https://lh3.googleusercontent.com/DJuMBoDp02dVXWn573Tp1xeBwP0zLhQuuK-KQzTTE0CXO8JnIgWEXa6KHMiopC4CrjbT5PKw1oWz)
+![Despliegue de acciones en Trello](img/flujo_diseno.jpg)
 
 ## Solicitudes
 Para cumplir con este flujo de trabajo, se usará Trello como medio de intercambio (junto con Slack) entre Jefe de Proyecto y diseñador(a). **Todo trabajo de diseño que suponga un esfuerzo significativo * deberá pedirse mediante una solicitud**.
@@ -24,8 +24,7 @@ Para agregar una solicitud se siguen los siguientes pasos:
 #### 1. Copiar template solicitud
 Cada solicitud de diseño debe ser ingresada por el Jefe de Proyecto en una card de Trello. Para ello, se debe copiar la card con nombre **TEMPLATE SOLICITUD**
 
-![Despliegue de acciones cuando se hace click en edit
-ar card de Trello](https://lh3.googleusercontent.com/Ynh6k3CU228CbvJBhg_6QA66rjvmJ8lA8JtVMeiiFRsZ-3xhokSgnbYePdBNkz0Gip3dEkDVyWxT)
+![Despliegue de acciones en Trello](img/trello1.png)
 
 Se cambia el título de la card, siguiendo el formato:
  ``[Empresa o nombre de proyecto] Nombre de la solicitud`` 
@@ -38,7 +37,7 @@ Se cambia el título de la card, siguiendo el formato:
 #### 2. Reemplazar contenido
 Dentro del card **TEMPLATE SOLICITUD** se encontrarán las especificaciones de la solicitud. Basta con reemplazar el texto explicativo y rellenar según corresponda.
 
-![enter image description here](https://lh3.googleusercontent.com/rY_KVWAzs39rrkTSk7o_qvEp-VuD8oFbe-V-FNK6fcpV0faP7zKL9OfbKIb1FgPrmZSLvBfbwdGD)
+![Detalle de template solicitud](img/trello2.png)
 
 **IMPORTANTE**: El campo "*Plazo estimado*" será llenado por el/la diseñador(a) una vez se tenga clara la fecha de vencimiento (que el Jefe de Proyecto definirá en la misma card). En esta etapa se dejará el espacio en blanco hasta que la solicitud sea leída y aceptada por el/la diseñador(a).
 
